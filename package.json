@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "backpack": "backpack",
+    "blessed": "node src/index.js"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81"
+  },
+  "devDependencies": {
+    "backpack-core": "^0.0.7"
+  }
+}
